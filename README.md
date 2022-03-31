@@ -9,17 +9,6 @@
 Hey My Name is Bahaa Zyoud, I'm a 4th year CS student at Yarmouk University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
 
-## Coding Profiles
-
-<a href="https://www.codechef.com/users/night_king_">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<a href="https://codeforces.com/profile/night_king_">
-  <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
-<hr/>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
