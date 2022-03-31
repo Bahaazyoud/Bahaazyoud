@@ -87,7 +87,7 @@ Hey My Name is Bahaa Zyoud, I'm a 4th year CS student at Yarmouk University.I am
 
 <div align = "center">
 
-![Bahaa Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Bahaa Github Status](https://github-readme-stats.vercel.app/api?username=Bahaa-22&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
