@@ -61,7 +61,7 @@ Hey My Name is Bahaa Zyoud, I'm a 4th year CS student at Yarmouk University.I am
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/Bahaa-313a40198/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
