@@ -44,8 +44,6 @@ Hey My Name is Bahaa Zyoud, I'm a 4th year CS student at Yarmouk University.I am
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
@@ -110,5 +108,5 @@ Hey My Name is Bahaa Zyoud, I'm a 4th year CS student at Yarmouk University.I am
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/parth-27) 
+⭐️ From [Bahaa Zyoud](https://github.com/Bahaazyoud) 
 
